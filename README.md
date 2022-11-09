@@ -9,5 +9,5 @@ I trained a model model optimized for MSE. $\lambda$ is set to $0.08$. The perfo
 
 <p float="left">
   <img src="https://github.com/JiangWeibeta/ELIC/blob/main/results/elic_reproduce_psnr.pdf" width="500" />
-  <img src="https://github.com/JiangWeibeta/ELIC/blob/main/results/elic_reproduce_psnr_clic.pdf" width="400" />
+  <img src="https://github.com/JiangWeibeta/ELIC/blob/main/results/elic_reproduce_psnr_clic.pdf" width="500" />
 </p>
