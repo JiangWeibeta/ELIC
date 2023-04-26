@@ -12,13 +12,3 @@ I trained a model optimized for MSE. $\lambda$ is set to $0.08$. The ELIC reprod
   <img src="https://github.com/JiangWeibeta/ELIC/blob/main/results/elic_reproduce_psnr_clic.png" width="400" />
 </p>
 
-## Citation
-If you use this library for research purposes, please cite:
-```
-@misc{UnofficialELIC,
-author = {Wei Jiang},
-title = {ELIC: Unofficial Implementation},
-howpublished = {\url{https://github.com/JiangWeibeta/ELIC/}},
-year = {2022}
-}
-```
