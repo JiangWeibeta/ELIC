@@ -23,3 +23,5 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
   year={2022}
 }
 ```
+# Contact
+Feel free to contact me if there is any question. (Wei Jiang, wei.jiang1999@outlook.com)
