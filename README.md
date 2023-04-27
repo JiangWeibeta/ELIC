@@ -5,13 +5,13 @@ My implementation is based on CompressAI.
 
 This reimplementation of ELIC is part of the MLIC project, if you find this repository useful, please cite
 
-> @inproceedings{he2022elic,
+>  @inproceedings{he2022elic,
 >  title={Elic: Efficient learned image compression with unevenly grouped space-channel contextual adaptive coding},
 >  author={He, Dailan and Yang, Ziming and Peng, Weikun and Ma, Rui and Qin, Hongwei and Wang, Yan},
 >  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 >  pages={5718--5727},
 >  year={2022}
-> }
+>   }
 
 > @article{jiang2022multi,
 > 
