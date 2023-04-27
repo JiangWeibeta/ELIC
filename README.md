@@ -3,7 +3,7 @@ Unofficial Implementation of CVPR22 papar "ELIC: Efficient Learned Image Compres
 
 My implementation is based on CompressAI.
 
-This reimplementation of ELIC is part of the MLIC project, if you find this repository useful, please cite
+This implementation of ELIC is part of the MLIC project, if you find this repository useful, please cite
 
 ```
 @article{jiang2022multi,
