@@ -12,8 +12,7 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
   journal={arXiv preprint arXiv:2211.07273},
   year={2022}
 }
-```
-```
+
 ```
 @misc{jiang2022unofficialelic,
     author={Jiang, Wei},
@@ -22,7 +21,7 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
     year={2022}
 }
 ```
-```
+
 ```
 @inproceedings{he2022elic,
   title={Elic: Efficient learned image compression with unevenly grouped space-channel contextual adaptive coding},
