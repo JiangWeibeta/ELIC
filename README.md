@@ -12,6 +12,7 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
   journal={arXiv preprint arXiv:2211.07273},
   year={2022}
 }
+```
 
 ```
 @misc{jiang2022unofficialelic,
@@ -20,6 +21,7 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
     howpublished={\url{https://github.com/JiangWeibeta/ELIC}},
     year={2022}
 }
+```
 
 ```
 @inproceedings{he2022elic,
@@ -29,6 +31,6 @@ This implementation of ELIC is part of the MLIC project, if you find this reposi
   pages={5718--5727},
   year={2022}
 }
-
+```
 # Contact
 Feel free to contact me if there is any question. (Wei Jiang, wei.jiang1999@outlook.com)
