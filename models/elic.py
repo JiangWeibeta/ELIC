@@ -281,10 +281,18 @@ class ELIC(CompressionModel):
             "x_hat": x_hat,
             "cost_time": cost_time
         }
-
     def update(self, scale_table=None, force=False):
         if scale_table is None:
             scale_table = get_scale_table()
         updated = self.gaussian_conditional.update_scale_table(scale_table, force=force)
         updated |= super().update(force=force)
         return updated
+
+    def load_state_dict(self, state_dict):
+        update_registered_buffers(
+            self.gaussian_conditional,
+            "gaussian_conditional",
+            ["_quantized_cdf", "_offset", "_cdf_length", "scale_table"],
+            state_dict,
+        )
+        super().load_state_dict(state_dict)
